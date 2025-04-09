@@ -1,6 +1,7 @@
 import function
 import FreeSimpleGUI as sg
 import time
+function.check_file_exist()
 
 sg.theme('Black')
 
